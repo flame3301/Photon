@@ -1,12 +1,11 @@
 # Photon
 
 <p align="center">
-  <a href="https://discord.com/users/908648080876920862"><img src="https://img.shields.io/discord/908648080876920862?logo=discord"></a>
   <a href="https://github.com/flame3301/Photon/commits/main"><img src="https://img.shields.io/github/last-commit/flame3301/Photon"></a>
   <a href="https://github.com/flame3301/Photon/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/flame3301/Photon"></a>
 </p>
 
-**Photon is a AI voice assistant created by Flame** 
+**Photon is a AI voice assistant that uses Cohere's API to provide you with the best responses on voice commands that start with a common prefix "hey photon". Photon is created by [Flame](https://github.com/flame3301).**
 
 **It is still under development and is being constantly updated.**
 
