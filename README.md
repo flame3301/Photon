@@ -1,9 +1,9 @@
 # Photon
 
 <p align="center">
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/discord/1136940882420056094?logo=discord"></a>
-  <a href="https://github.com/flame3301/Photon/commits/main"><img src="https://img.shields.io/github/last-commit/flame3301/Discord.py-Bot-Base"></a>
-  <a href="https://github.com/kkrypt0nn/Python-Discord-Bot-Template/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/flame3301/Discord.py-Bot-Base"></a>
+  <a href="https://discord.com/users/908648080876920862"><img src="https://img.shields.io/discord/908648080876920862?logo=discord"></a>
+  <a href="https://github.com/flame3301/Photon/commits/main"><img src="https://img.shields.io/github/last-commit/flame3301/Photon"></a>
+  <a href="https://github.com/flame3301/Photon/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/flame3301/Photon"></a>
 </p>
 
 **Photon is a AI voice assistant created by Flame** 
@@ -12,11 +12,11 @@
 
 __Note:__ **This source is on its** `Version: 1` **So its not that much good rightnow.**
 
-Must Read the [the license file](https://github.com/flame3301/Discord.py-Bot-Base//LICENSE.md) for more
+Must Read the [the license file](https://github.com/flame3301/Photon//LICENSE.md) for more
 
 ## Support Server
 
-- *If you're having problem, feel free to ask at my discord* [flame](https://discord.com/users/),
+- *If you're having problem, feel free to ask at my discord* [flame](https://discord.com/users/908648080876920862),
 
 ## Steps to run this code
 
